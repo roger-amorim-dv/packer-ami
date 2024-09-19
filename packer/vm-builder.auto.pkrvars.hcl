@@ -1,0 +1,1 @@
+ami_name = "custom-builder-packer-alpine-aws"
